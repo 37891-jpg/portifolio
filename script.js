@@ -430,7 +430,7 @@ async function loadGitHubProjects() {
   const grid = document.getElementById('projectsGrid');
   if (!grid) return;
 
-  const githubUsername = '37891';
+  const githubUsername = '37891-jpg';
 
   try {
     // Try fetching repos from GitHub API
